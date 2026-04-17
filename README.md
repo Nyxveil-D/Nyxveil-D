@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am an aspiring software developer with a growing focus on **backend development**, **database fundamentals**, and **artificial intelligence**. My main interest lies in understanding how modern web applications work behind the scenes and how intelligent features can be integrated into them to create more useful digital solutions. At this stage, I am strengthening my foundation in **HTML, CSS, PHP, and Python**<br>while continuously exploring how these technologies connect with backend logic, database systems, and AI concepts. I enjoy the learning process, especially when it helps me move closer to building web applications that are not only functional, but also smarter and more interactive. <br>For local development practice, I use **Laragon** and **XAMPP** to experiment, learn workflows, and improve my technical understanding step by step. <br>Through this GitHub profile, I aim to document my progress, share my learning journey, and gradually build real-world projects that reflect my growth as a developer.
+
+I am an aspiring software developer who is currently focused on building strong fundamentals in **backend development**, **databases**, and **artificial intelligence**. I am particularly interested in the way these three areas can work together to support the development of modern web applications.
+
+My current learning journey includes strengthening my understanding of **HTML, CSS, PHP, and Python**, while also exploring how backend systems are structured, how databases support application logic, and how AI can be integrated into websites to make them more adaptive and valuable.
+
+I use **Laragon** and **XAMPP** as part of my local development environment to practice consistently and gain hands-on experience. Although I am still at the beginning of my journey, I am committed to continuous improvement and to building a solid technical foundation that will support future real-world projects.
 
 
 ## 🌐 Socials:
